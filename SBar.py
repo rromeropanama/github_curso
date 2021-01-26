@@ -29,3 +29,5 @@ f.pack()
 canvas.create_window(0,0,ancho=NW,window=f)
 
 root.mainloop()
+
+#
